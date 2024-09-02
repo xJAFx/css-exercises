@@ -14,20 +14,16 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   padding: 8px;
-  align-items: center;
   justify-content: space-between;
 }
 
-.left-links {
+.left-links,
+.right-links {
   display: flex;
   align-items: center;
   gap: 16px;
 }
 
-.right-links {
-  display: flex;
-  gap: 16px;
-}
 
 .profile-image {
   background: rebeccapurple;
