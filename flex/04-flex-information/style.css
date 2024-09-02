@@ -20,10 +20,7 @@ img {
   gap: 52px;
 }
 
-.barberry,
-.chili,
-.saffron,
-.pepper {
+.plant {
   max-width: 200px;
 }
 
